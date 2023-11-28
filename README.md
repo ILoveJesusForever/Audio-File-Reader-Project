@@ -1,2 +1,2 @@
 # Audio-File-Reader-Project
-The goal of this gui is to  enable you to drag and drop txt files, reads the txt file, while also have button controls
+The goal of this gui is to create an application that reads text files and transfers it to audio.
